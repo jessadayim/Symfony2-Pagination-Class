@@ -58,7 +58,7 @@ class Paginator {
         $this->currentPage = $currentPage;
         $this->limit = $limit;
         $this->midRange= $midRange;
-
+        echo "test";
         //Set defaults
         $this->setDefaults();
 
